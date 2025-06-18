@@ -1,7 +1,7 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+!src/zyugyo2/main/**/out/
+!src/zyugyo2/test/**/out/
 
 ### Eclipse ###
 .apt_generated
@@ -12,8 +12,8 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+!src/zyugyo2/main/**/bin/
+!src/zyugyo2/test/**/bin/
 
 ### NetBeans ###
 /nbproject/private/

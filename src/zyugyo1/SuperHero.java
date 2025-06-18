@@ -1,3 +1,5 @@
+package zyugyo1;
+
 public class SuperHero extends Hero {
     boolean flying;
     public SuperHero() {
